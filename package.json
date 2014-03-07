@@ -1,0 +1,22 @@
+{
+  "name": "FiftyOne",
+  "version": "0.0.1",
+  "description": "Client for the 51.fi URL shortener.",
+  "maintainers": [{
+    "name": "Arto Liukkonen",
+    "email": "arto@51.fi",
+    "web": "http://www.artoliukkonen.net/"
+  }],
+  "licenses": [{
+    "type": "MIT",
+    "url": "http://github.com/artoliukkonen/node-fiftyone/blob/master/LICENSE.txt"
+  }],
+  "repositories": [{
+    "type": "git",
+    "url": "http://github.com/artoliukkonen/node-fiftyone"
+  }],
+  "directories": {
+    "lib": "./lib"
+  },
+  "main": "./lib/fiftyone"
+}
